@@ -1,7 +1,8 @@
-###**Pamela McDill**
-####<plm02@uark.edu>
+**Pamela McDill**
 
-####**Education**
+<plm02@uark.edu>
+
+**Education**
 **PhD Biology** **(Expected Spring 2022)**
 
 University of Arkansas, Fayetteville
