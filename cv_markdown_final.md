@@ -23,7 +23,7 @@ Oregon State University, ecampus
 
 University of Arkansas, Fayetteville
 
-####**Teaching Assistant**
+**Teaching Assistant**
 **Biology of Global Change Seminar**            **(Spring 2017)**
 
 -two sections
@@ -41,14 +41,14 @@ University of Arkansas, Fayetteville
 -instructed and guided students for hands-on lab experience
 
 
-####**Honors and Awards**
+**Honors and Awards**
 **Doctoral Academy Fellowship**                **(Fall 2016-present)**
 
 University of Arkansas, Fayetteville, Department of Biological Sciences
 
 **Teaching Assistantship & Tuition Waiver**     **(Fall 2016-present)**
 
-####**Research Interests**
+**Research Interests**
 
 -conservation and molecular ecology
 
@@ -58,7 +58,7 @@ University of Arkansas, Fayetteville, Department of Biological Sciences
         statistics to model disease spread across the landscape
 
 
-####**Professional Experience**
+**Professional Experience**
 
 **Emergency Medical Technician**        **(06/02/2008 - 04/29/2016)**
 Metropolitan Emergency Medical Services, Little Rock, Arkansas
@@ -83,7 +83,7 @@ response, assist in emergent situations when necessary
 
  -small business co-owner, manager
 
-####**Professional Honors and Awards**
+**Professional Honors and Awards**
 
 **EMT of the Year**                     **2015**
 
